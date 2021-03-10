@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e28b20f.chunk.css",
+    "main.js": "/static/js/main.fd8a21be.chunk.js",
+    "main.js.map": "/static/js/main.fd8a21be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.040a1c4c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.040a1c4c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.66aaaed4.chunk.js": "/static/js/2.66aaaed4.chunk.js",
+    "static/js/2.66aaaed4.chunk.js.map": "/static/js/2.66aaaed4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6e28b20f.chunk.css.map": "/static/css/main.6e28b20f.chunk.css.map",
+    "static/js/2.66aaaed4.chunk.js.LICENSE.txt": "/static/js/2.66aaaed4.chunk.js.LICENSE.txt",
+    "static/media/banner-logo.bc704e70.png": "/static/media/banner-logo.bc704e70.png",
+    "static/media/carne.bad568bf.png": "/static/media/carne.bad568bf.png",
+    "static/media/fish-g.351b543d.png": "/static/media/fish-g.351b543d.png",
+    "static/media/fish.534725da.png": "/static/media/fish.534725da.png",
+    "static/media/ingles.17493cd4.png": "/static/media/ingles.17493cd4.png",
+    "static/media/logotipo.0895ee94.png": "/static/media/logotipo.0895ee94.png",
+    "static/media/rodape-cartao.71aad525.png": "/static/media/rodape-cartao.71aad525.png",
+    "static/media/salada.8ebafeb2.png": "/static/media/salada.8ebafeb2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.040a1c4c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.66aaaed4.chunk.js",
+    "static/css/main.6e28b20f.chunk.css",
+    "static/js/main.fd8a21be.chunk.js"
+  ]
+}
